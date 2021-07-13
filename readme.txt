@@ -1,0 +1,1 @@
+This app is made up on my youtube channel xDoramming and this app is modified to be uploaded on heroku. If you guys want to test this app then link for the image is : https://www.saraai.com/images/blog/mnist4.png
